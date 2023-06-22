@@ -1,10 +1,8 @@
-### Hi there 👋
-
-# [Your Name]
+# Shivendu Anand
 
 ## Full Stack Developer | React.js | Next.js | Firebase | Microservices Architecture | Vercel | GraphQL | MongoDB
 
-Hey there! 👋 I'm [Your Name], a passionate Full Stack Developer with expertise in building modern web applications using cutting-edge technologies.
+Hey there! 👋 I'm Shivendu Anand, a passionate Full Stack Developer with expertise in building modern web applications using cutting-edge technologies.
 
 ### Tech Stack
 
@@ -23,9 +21,7 @@ Hey there! 👋 I'm [Your Name], a passionate Full Stack Developer with expertis
 
 ### Connect with Me
 
-🔗 **GitHub:** [github.com/shivendu13](https://github.com/vendu13)
-🔗 **LinkedIn:** [linkedin.com/in/shivendu-anand-973b491a5/](https://www.linkedin.com/in/shivendu-anand-973b491a5/])
+🔗 **GitHub:** [github.com/shivendu13](https://github.com/shivendu13)
+🔗 **LinkedIn:** [linkedin.com/in/shivendu-anand-973b491a5/](https://linkedin.com/in/shivendu-anand-973b491a5/)
 
 🎯 I'm always open to exciting opportunities and collaborations, so feel free to reach out! Let's create amazing digital experiences together! 🌍
-
-
