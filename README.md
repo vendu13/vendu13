@@ -17,7 +17,6 @@
 ✨ Exploring new technologies and staying up-to-date with the latest industry trends.
 
 📫 Let's connect:
-🔗 GitHub: github.com/shivendu13
 🔗 LinkedIn: linkedin.com/in/shivendu-anand-973b491a5/
 
 🎯 I'm always open to exciting opportunities and collaborations, so feel free to reach out! Let's create amazing digital experiences together! 🌍
