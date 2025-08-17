@@ -1,22 +1,27 @@
-# Shivendu Anand
-🚀 Full Stack Developer | React.js | Next.js | Firebase | Microservices Architecture | Vercel | GraphQL | MongoDB 🌱
+# 👋 Hi, I’m Shivendu
 
-👨‍💻 Hey, I'm Shivendu Anand! I'm a passionate Full Stack Developer with expertise in building modern web applications using cutting-edge technologies.
+🚀 I build rapid prototypes and MVPs using the power of AI.
 
-💻 My Tech Stack:
-🔹 React.js | Next.js for creating dynamic and performant front-end interfaces.
-🔹 Firebase for building scalable and real-time applications with authentication, database, and hosting services.
-🔹 Microservices Architecture for developing highly modular and scalable systems.
-🔹 Vercel for seamless deployment and hosting of web applications.
-🔹 GraphQL for efficient and flexible data fetching between clients and servers.
-🔹 MongoDB for handling data storage and management with its powerful document-oriented database.
+I'm passionate about turning ideas into functional products — fast. Whether it's leveraging LLMs to automate workflows, crafting proof-of-concepts for web apps, or integrating AI APIs to solve real-world problems, I thrive at the intersection of technology and creativity.
 
-🌟 What I love:
-✨ Crafting elegant and intuitive user experiences.
-✨ Architecting scalable and maintainable codebases.
-✨ Exploring new technologies and staying up-to-date with the latest industry trends.
+### 🛠 What I do
+- 💡 Design & build AI-first MVPs and internal tools
+- ⚙️ Rapid prototyping using GPT-4o, LangChain, Supabase, and Vercel V0
+- 🌍 Solve global ops problems with automation & intelligent systems
+- 📦 Tinker with AI models, SDKs, and emerging tech
 
-📫 Let's connect:
-🔗 LinkedIn: linkedin.com/in/shivendu-anand-973b491a5/
+### 📂 Featured Projects
+- 🧠 **AutoPlaybooks**: An AI tool that creates interactive SOPs from unstructured data
+- 💼 **Sikkim.com**: A local D2C marketplace with video listings & dynamic admin backend
+- 🛠 **Rippling Ops Companion**: Workflow tool for internal payroll & EOR triage
 
-🎯 I'm always open to exciting opportunities and collaborations, so feel free to reach out! Let's create amazing digital experiences together! 🌍
+### 🔍 Currently Exploring
+- RAG pipelines and agentic workflows  
+- Semantic search & embedding-based ranking  
+- AI-augmented dashboards and ops tooling  
+
+### 📫 Let’s connect
+Feel free to reach out for AI-powered collaborations or just to nerd out on side projects.
+
+---
+_“Build fast. Iterate faster. Let AI do the heavy lifting.”_
